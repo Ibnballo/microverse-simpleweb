@@ -1,0 +1,13 @@
+#title {
+    text-align: center;
+}
+#img-div {
+    display: flex;
+    flex-direction: column;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
